@@ -1,11 +1,11 @@
 ---
-title: "Archives"
-date: 2022-03-06
+title: "보관함"
+date: 20223-09-19
 layout: "archives"
 slug: "archives"
 menu:
-    main:
-        weight: 2
-        params: 
-            icon: archives
+  main:
+    weight: 2
+    params:
+      icon: archives
 ---

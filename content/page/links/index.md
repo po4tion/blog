@@ -1,33 +1,25 @@
 ---
-title: Links
+title: 링크
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+    description: 소소한 깃허브
+    website: https://github.com/po4tion
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
+  - title: Portfolio
+    description: 작지만 소중한 포트폴리오
+    website: https://www.typescriptlang.org
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
+  - title: Resume
+    description: 한줄 한줄 강하게 눌러 쓴 이력서
+    website: https://www.typescriptlang.org
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
-    main: 
-        weight: 4
-        params:
-            icon: link
+  main:
+    weight: 4
+    params:
+      icon: link
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.

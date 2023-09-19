@@ -6,15 +6,15 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2023
-customText = ""
+customText = "김동규의 기술 블로그"
 
 [dateFormat]
-published = "Jan 01, 2006"
-lastUpdated = "Jan 30, 2006 15:04 KST"
+published = "1월 1일, 2006년"
+lastUpdated = "1월 30일, 2006년 15:04 KST"
 
 [sidebar]
 emoji = "🍥"
-subtitle = "Developer who make the code delicious!"
+subtitle = "그 누구보다도 맛있는 코드를 작성하기 위해 맛집탐방 다니는 개발자"
 
 [sidebar.avatar]
 enabled = true
