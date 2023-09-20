@@ -9,8 +9,8 @@ since = 2023
 customText = "김동규의 기술 블로그"
 
 [dateFormat]
-published = "1월 1일, 2006년"
-lastUpdated = "1월 30일, 2006년 15:04 KST"
+published = "1월 2일, 2006년"
+lastUpdated = "1월 2일, 2006년 15:04 MST"
 
 [sidebar]
 emoji = "🚀"
