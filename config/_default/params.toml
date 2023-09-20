@@ -59,9 +59,9 @@ site = "https://www.po4tion.dev/"
 card = "summary_large_image"
 
 [defaultImage.opengraph]
-enabled = false
-local = false
-src = ""
+enabled = true
+local = true
+src = "/img/bg.png"
 
 [colorScheme]
 toggle = true
@@ -79,6 +79,6 @@ enabled = true
 provider = "utterances"
 
 [comments.utterances]
-repo = "po4tion/blog-comments"
+repo = "po4tion/blog"
 issueTerm = "pathname"
 label = "comments"
