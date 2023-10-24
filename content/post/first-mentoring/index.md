@@ -1,7 +1,7 @@
 ---
-title: 28세 김씨의 첫 멘토링
-date: 2023-09-20
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+title: 나와 예비 개발자의 공생 관계, 그리고 멘토링을 통한 상호 성장
+date: 2023-10-22
+description: 6개월(5월 ~ 10월)동안 한 명의 예비 개발자를 멘토링하며 경험하고 느꼈던 점들을 공유합니다.
 tags:
   - 멘토
   - 배움
@@ -11,10 +11,18 @@ categories:
   - mentoring
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+## 멘토링을 하게 된 이유
 
-<!--more-->
+현업에서 일하고 있던 2022년 12월.
 
-## Headings
+친한 형(이하 '멘티')로부터 한 통의 전화가 왔습니다. 멘티는 당시 반도체 종사자였고 개발자로의 전향을 진지하게 생각하고 있어 약 2시간 가량 대화를 나눴습니다. 전화통화가 끝난 이후에 3달동안 저와의 커피챗을 3번 정도 가졌고 그는 개발자의 길을 걷기로 결심합니다.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+후에 그는 막상 직군을 변경한다고 마음 먹으니 앞으로 경험하게 될 일에 대한 두려움이 생겼는지 자신이 잘 할 수 있을지 모르겠다고 되뇄습니다.
+
+그 모습을 보고 순간 그의 감정이 느껴졌고 대화를 통해 한 사람의 인생에 타인(他人)이 얼마나 크게 개입할 수 있는지를 깨달았습니다. 그의 인생의 변곡점일지도 모르는 이 순간을 함께한다는 것이 얼마나 위대한 일인지 그 편린을 들여다 본 순간이었습니다.
+
+그리고 저는 책임감을 느껴 그가 취업이 되기 전까지는 내 힘이 닿는 곳까지는 도움을 줘야겠다고 결심합니다.
+
+![합격의 순간](photo01.png)
+
+그가 부트캠프를 합격하고 저는 그의 멘토(mentor)가 그는 저의 멘티(mentee)가 되었습니다.
