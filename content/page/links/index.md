@@ -7,12 +7,12 @@ links:
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 
   - title: Portfolio
-    description: 작지만 소중한 포트폴리오
+    description: 준비중입니다
     website: https://www.typescriptlang.org
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 
   - title: Resume
-    description: 한줄 한줄 강하게 눌러 쓴 이력서
+    description: 준비중입니다
     website: https://www.typescriptlang.org
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
