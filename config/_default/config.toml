@@ -2,7 +2,7 @@
 baseurl = "https://www.po4tion.dev/"
 languageCode = "ko-kr"
 paginate = 5
-title = "김동규"
+title = "개발자 김동규의 기술 블로그"
 
 # Theme i18n support
 # Available values: en, ko

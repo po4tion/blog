@@ -6,7 +6,7 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2023
-customText = "김동규의 기술 블로그"
+customText = "개발자 김동규의 기술 블로그"
 
 [dateFormat]
 published = "1월 2일, 2006년"
